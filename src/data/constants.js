@@ -17,7 +17,7 @@ export const Bio = {
     facebook: "https://www.facebook.com/rishav.chanda.165/",
   };
   
-  export const skills = [
+  export const skillso = [
     {
       title: "Frontend",
       skills: [
@@ -197,6 +197,7 @@ export const Bio = {
         },
       ],
     },
+ 
   ];
   
   export const experiences = [
