@@ -103,7 +103,7 @@ export default function tilt(skill : Skill,props: any) {
               transform: "translateZ(75px)",
               transformStyle: "preserve-3d",
             }}
-            className=" w-full max-w-[500px] bg-card border border-purple-500 shadow-lg shadow-blue-300 rounded-2xl p-6 md:max-w-[400px] md:p-4 sm:max-w-[330px]"
+          className=" w-full max-w-[500px] bg-card border bg-[#101725] rounded-2xl p-6 md:max-w-[400px] md:p-4 sm:max-w-[330px]"
           // className="absolute inset-4 grid place-content-center rounded-xl bg-white shadow-lg"
           >
             <h2 

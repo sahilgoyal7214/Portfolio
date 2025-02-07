@@ -4,7 +4,6 @@ import proCodrr from "../app/images/ProCodrr.webp";
 
 export default function Project(props: any) {
 
-
   const project = [{
     title: "ProCodrr",
     description: "Deeply understand advanced concepts, practice with real-world exercises, build expertise with hands-on projects to boost your career.",
@@ -33,7 +32,7 @@ export default function Project(props: any) {
 
   return (
     <div className=" max-w-screen-xl mx-auto px-4 relative pb-8 sm:pb-16">
-      <h2 className="text-3xl sm:text-[40px] bg-black relative z-10 font-bold px-4 py-2 w-max mt-6 mx-auto text-center text-[#1788ae] sm:border-b-2 border-[#1788ae]">
+      <h2 className="text-3xl sm:text-[40px] bg-bodycolor relative z-10 font-bold px-4 py-2 w-max mt-6 mx-auto text-center text-[#1788ae] sm:border-b-2 border-[#1788ae]">
         Projects
       </h2>
       <div className="w-[3px] hidden sm:block bg-[#1788ae] absolute top-0 bottom-0 left-1/2 -translate-x-1/2"></div>

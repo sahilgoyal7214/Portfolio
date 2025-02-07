@@ -1,4 +1,4 @@
-import TiltCard from '@/components/skillCard'
+import TiltCard from '@/components/tilt'
 import { skills } from '@/data/constants'
 import React from 'react'
 
